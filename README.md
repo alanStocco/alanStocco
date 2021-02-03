@@ -17,9 +17,9 @@ This is what I do for work but I also like it. I love to walk/hiking(eg Santiago
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=python&logoColor=white&link=https://github.com/pranjaljain0)
-![Java](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=java&logoColor=white&link=https://github.com/pranjaljain0)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+![Python](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=java&logoColor=red)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow) 
 
 ### Frontend
 
@@ -27,24 +27,23 @@ This is what I do for work but I also like it. I love to walk/hiking(eg Santiago
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
-
 ### Frameworks
 
-- Django 
+![Django](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=django&logoColor=green)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-
 
 ### Database
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-Oracle
+![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=Oracle)
 
-##🌱 I’m currently learning new stuff (for me) like: 
+
+## 🌱 I’m currently learning: 
 - Write articles online about what i do and try
 - ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-- JS Freamwork.React for now.
+- JS Freamwork.[React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react) for now.
 - Audio In WebGL
-- MongoDB
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 
 <!--
