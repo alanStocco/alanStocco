@@ -41,7 +41,7 @@ This is what I do for work but I also like it. I love to walk/hiking(eg Santiago
 ## 🌱 I’m currently learning: 
 - Write articles online about what i do and try
 - ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-- JS Freamwork.[React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react) for now.
+- JS Freamwork. ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react) for now.
 - Audio In WebGL
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
