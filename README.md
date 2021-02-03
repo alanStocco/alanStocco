@@ -5,7 +5,7 @@ This is what I do for work but I also like it. I love to walk/hiking(eg Santiago
 
 [Resume](https://github.com/alanStocco/alanStocco/files/5918874/Resume_CV_Alan_Stocco.pdf)
 
-📫 How to reach me:
+## 📫 How to reach me:
  - [Linkedin](https://www.linkedin.com/in/alan-stocco/?locale=en_US) 
  - [Medium](https://medium.com/@stocco.alan) 
  - [Dev.to](https://dev.to/alanstocco)
@@ -15,8 +15,7 @@ This is what I do for work but I also like it. I love to walk/hiking(eg Santiago
 
 ## 🔭 Technologies & Tools. I’m currently working with: 
 
-
-## Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=python&logoColor=white&link=https://github.com/pranjaljain0)
 ![Java](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=java&logoColor=white&link=https://github.com/pranjaljain0)
@@ -40,7 +39,7 @@ This is what I do for work but I also like it. I love to walk/hiking(eg Santiago
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 Oracle
 
-🌱 I’m currently learning new stuff (for me) like: 
+##🌱 I’m currently learning new stuff (for me) like: 
 - Write articles online about what i do and try
 - ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 - JS Freamwork.React for now.
