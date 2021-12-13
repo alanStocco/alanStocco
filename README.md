@@ -36,9 +36,13 @@ This is what I do for work but I also like it. I love to walk/hiking(eg Santiago
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=Oracle)
+![Haskell](https://img.shields.io/badge/-Haskell-black?style=flat-square&logo=Haskell)
+
 
 
 ## 🌱 I’m currently learning: 
+- All crypto stuff both dev side also investor side. And I'm lovin'it.
+I'm studying Solidity and follows the 1st cohort of Cardano Plutus Pioneer Programme(<a href="https://bafybeifs7kg4yt5opwvduql4sktqt2uiyowfmxhihiwjy4hey63z4e6rte.ipfs.infura-ipfs.io/ ">here</a> , my pic just on the left of Einstein(lol) on the top right corner 
 - Write articles online about what i do and try
 - ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 - JS Freamwork. ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react) for now.
