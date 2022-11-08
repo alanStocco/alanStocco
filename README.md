@@ -39,8 +39,10 @@ This is what I do for work but I also like it. I love to walk/hiking(eg Santiago
 
 
 ## 🌱 I’m currently learning: 
-- All crypto stuff both dev side also investor side. And I'm lovin'it.
-I'm studying Solidity and follows the 1st cohort of Cardano Plutus Pioneer Programme(<a href="https://bafybeifs7kg4yt5opwvduql4sktqt2uiyowfmxhihiwjy4hey63z4e6rte.ipfs.infura-ipfs.io/ ">here</a> , my pic just on the left of Einstein(lol) on the top right corner 
+- All Bitcoin and crypto(also if I don't like the word used) stuff both dev side also personal side. And I'm lovin'it.
+I'm studying Bitcoin in various forms(books, forum, podcast and try to write some code) 
+I studied Solidity and follows the 1st cohort of Cardano Plutus Pioneer Programme(<a href="https://bafybeifs7kg4yt5opwvduql4sktqt2uiyowfmxhihiwjy4hey63z4e6rte.ipfs.infura-ipfs.io/ ">here</a> , my pic just on the left of Einstein(lol) on the top right corner.
+Step by step I'm becoming more a Bitcoin maximalist about this sector but you know "don't trust, verify!" 
 - Write articles online about what i do and try
 - ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 - JS Freamwork. ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react) for now.
