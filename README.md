@@ -27,7 +27,7 @@ I'm studying ₿. I really like it.
 ## 🔭 Technologies & Tools. I’m currently working with: 
 
 ![Python](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=java&logoColor=red)
+Java
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow) 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -39,17 +39,17 @@ I'm studying ₿. I really like it.
 ![Haskell](https://img.shields.io/badge/-Haskell-black?style=flat-square&logo=Haskell)
 
 
-
 ## 🌱 I’m currently learning: 
 - All Bitcoin and crypto(also if I don't like the word used) stuff both dev side also personal side. And I'm lovin'it.
 I'm studying Bitcoin in various forms(books, forum, podcast and try to write some code) 
 I studied Solidity and follows the 1st cohort of Cardano Plutus Pioneer Programme(<a href="https://bafybeifs7kg4yt5opwvduql4sktqt2uiyowfmxhihiwjy4hey63z4e6rte.ipfs.infura-ipfs.io/ ">here</a> , my pic just on the left of Einstein(lol) on the top right corner.
-Step by step I'm becoming more a Bitcoin maximalist about this sector but you know "don't trust, verify!" 
+...But step by step I'm becoming more a Bitcoin maximalist about this sector but you know "don't trust, verify!" 
 - Write articles online about what i do and try
 - ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-- JS Freamwork. ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react) for now.
-- Audio In WebGL
+- JS Freamwork. ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react) for now. And a little bit of [Vue](https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue)
+- Audio In WebGL, just a try to help a familiar.
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+- Just a first look to Go and Rust
 
 
 <!--
