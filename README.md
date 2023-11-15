@@ -2,10 +2,10 @@
 
 I'm a software engineer from Italy. 
 This is what I do for work but I also like it. 
-I love to walk/hiking(eg Santiago-Primitivo, Via Degli Dei, FIsherman Trail/Rota Vicentina) and travel.
+I love to walk/hiking(eg Santiago-Primitivo/Norte, Via Degli Dei, FIsherman Trail/Rota Vicentina) and travel.
 I'm studying ₿. I really like it.
 
-[Resume](https://github.com/alanStocco/alanStocco/files/5918874/Resume_CV_Alan_Stocco.pdf)
+[Resume](https://github.com/alanStocco/alanStocco/blob/main/Alan_Stocco_Resume.pdf)
 
 ## 📫 How to reach me:
 <p align="center">
