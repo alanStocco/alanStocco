@@ -8,7 +8,7 @@ I'm studying ₿. I really like it.
 [Resume](https://github.com/alanStocco/alanStocco/blob/main/Alan_Stocco_Resume.pdf)
 
 ## 📫 How to reach me:
-Best way is Linkedin https://www.linkedin.com/in/alan-stocco/ and Telegram https://t.me/TaipanAl.
+Best way is Linkedin https://www.linkedin.com/in/alan-stocco/ and Telegram TBD .
 
 <p align="center">
 <a href="https://stocco-alan.medium.com/" target="_blank">
