@@ -1,11 +1,9 @@
 ### Hi there 👋 I'm Alan
 
-I'm a software engineer from Italy. 
-This is what I do for work but I also like it. 
-I love to walk/hiking(eg Santiago and other hikings) and travel.
-I'm studying ₿. I really like it.
+Professionaly, I'm a software engineer from Italy with 12 years of experience.
+Personally, I enjoy hiking, the "peregrino" lifestyle and studying ₿itcoin.
 
-[Resume](https://github.com/alanStocco/alanStocco/blob/main/Alan_Stocco_Resume.pdf)
+[Resume - Fix in progress](https://github.com/alanStocco/alanStocco/blob/main/Alan_Stocco_Resume.pdf) 
 
 ## 📫 How to reach me:
 Best way is Linkedin https://www.linkedin.com/in/alan-stocco/ and Telegram TBD .
